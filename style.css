@@ -64,3 +64,53 @@ h5{
     line-height: 25px;
 }
 
+main{
+    margin-top: 25px;
+    height: fit-content;
+    background-color: var(--warna-text);
+}
+
+.sr h4{
+    margin: 15px auto;
+    border-bottom: #6E49EA 3px solid;
+    max-width: 214px;
+    text-align: center;
+}
+
+h4{
+    font-weight: bolder;
+    font-size: 23px;
+}
+
+.row{
+    width: 600px;
+    margin: 10px 0;
+}
+
+.row img{
+    border: #303330 3px solid;
+    width: 250px;
+    margin: 0 5px;
+}
+
+.jumbo{
+    margin: 5px 0;
+    float: right;
+    width: 715px;
+}
+
+.jumbo img{
+    border: #303330 3px solid;
+    width: 715px;
+    height: 514px;
+    margin-top: 5px;
+}
+
+.in{
+    display: inline-block;
+    width: 500px;
+}
+
+.slide{
+    padding: 0 50px 6px;
+}
